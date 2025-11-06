@@ -761,7 +761,7 @@ function App() {
 
     // Add handler for logo click
     const handleLogoClick = () => {
-      navigate('/login');
+      navigate('/');
     };
 
     // Check if user is logged in
